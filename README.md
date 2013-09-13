@@ -9,3 +9,6 @@ $c = $x->nextGray(1);
 print $c;
 print'---------------';
 print bindec($c);
+
+
+http://en.wikipedia.org/wiki/Gray_code
